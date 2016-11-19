@@ -2,7 +2,7 @@
 As software developers we must all be continuous, asynchronous learners to thrive. This repo is a daily journal documenting the learning resources I consume.
 ***
 ## Format
-This repo is organized into a markdown file per week (see Entry Links section of this README). Each file consists of a simple list of links to learning resources used each day along with a star rating (1-5) and any additional notes. It is mainly for my own record keeping, but perhaps you will find some resources that are also useful to you.
+This repo is organized into a markdown file per week (see [Entry Links](#entry-links)). Each file consists of a simple list of links to learning resources used each day along with a star rating (1-5) and any additional notes. It is mainly for my own record keeping, but perhaps you will find some resources that are also useful to you.
 ***
 ## Learning Profiles
 I am a big fan of in-browser learning platforms. Here are some links to my public profiles on some of the sites I frequent.
