@@ -17,3 +17,12 @@
   * The most complex chapter I have read thus far. I now have a better idea of why closures are useful, how not to screw them up when writing a block (use let if possible!), and how they are used to make modules with Public APIs. I hope future chapters utilize the information in this one, so that I can get more practice parsing through code snippets with complex closures and hopefully avoid gotchas in my code. Learning about how the ES6 modules evolved from the previous version has enhanced my understanding of past React/Redux work.
 * [x] [YDKJS: Scopes & Closures Appendix A - Dynamic Scope](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20%26%20closures/apA.md) | `* * * * *`
   * Concise example of how JS would work if scoped dynamically. Sometimes seeing contrast can solidify a concept better than repeated examples of the concept itself.
+
+***
+
+## Monday
+
+* [x] [YDKJS: Scopes & Closures Appendix B - Polyfilling Block Scope](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20%26%20closures/apB.md) | `* * *`
+  * Summary of how transpilers use try/catch blocks to deal with ES6 let declarations within blocks. Most useful was the explanation at the end of why transpiling with and IIFE would be unpredictable and do things like change the context of `this` for the block.
+* [x][YDKJS: Scopes & Closures Appendix C - Lexical This](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20%26%20closures/apC.md) | `* * * *`
+  * Brief article explaining that ES6 `=>` comes with the added side effect of binding `this` to the function. Appropriate lead-in to the next book in the series, which is focused on `this`.
