@@ -16,11 +16,11 @@
 * [x] [So You Want to be a Functional Programmer (Part 2)](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-2-7005682cec4a#.hsj35e65j) | `* * * *`
   * Again, nothing new, but the review on JS closures was nice and used an identical example from YDKJS. Onward to Part 3!
 * [x] [So You Want to be a Functional Programmer (Part 3)](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-3-1b0fd14eb1a7#.mxfm25nf1) | `* * * *`
-  * Finally, some new material! Had heard the term "point free floatation" here and there but didn't have the occasion to look it up. Awesome that functional languages can do this; I would think this would be harder in an OO language where functions that take in zero parameters are much more commonplace.
+  * Finally, some new material! Had heard the term "point free notation" here and there but didn't have the occasion to look it up. Awesome that functional languages can do this; I would think this would be harder in an OO language where functions that take in zero parameters are much more commonplace.
 * [x] [So You Want to be a Functional Programmer (Part 4)](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-4-18fbe3ea9e49#.2gc05m6g9) | `* * * * *`
   * Best intro to currying I have seen so far. Definitely made me start realizing that I need to place more emphasis on how I order my parameters so that I can take advantage of currying more often. Decent review of map, filter, reduce defined iteratively in JS.
 * [x] [So You Want to be a Functional Programmer (Part 5)](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-5-c70adc9cf56a#.upvenvyzj) | `* * *`
-  * This article provided a concrete picture of how functional languages achieve operations in parallel by design of the language alone. The explanation on types also clarified some nuance I had failed to see in my previous work with Elm, but I do not think it would serve as a clear explanation for a total beginner to Elm, the intended target audience.
+  * This article provided a concrete picture of how functional languages achieve operations in parallel by design of the language alone. The explanation on types also clarified some nuance I had failed to see in my previous work with Elm, but I do not think it would serve as a clear explanation for a total beginner to Elm.
 * [x] [So You Want to be a Functional Programmer (Part 6)](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-6-db502830403#.cxq9njehs) | `* * * *`
   * Nice to have an intro to Ramda, something I've been wanting to look at but had not gotten the chance yet. Didn't need the sales pitch on Elm as I'm already sold. All in all a nice series that I would recommend to friends just getting into FP.
 
@@ -30,5 +30,4 @@
   * [x] [YDKJS: *this* & Object Prototypes CH1: `this` Or That?](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20%26%20object%20prototypes/ch1.md) | `* * * *`
     * Explanation of how `this` differs from lexical scope and cannot be treated as such. Reminder: lexical scope = author time and `this` = runtime.
   * [x] [YDKJS: *this* & Object Prototypes CH2: `this` All Makes Sense Now!](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20%26%20object%20prototypes/ch2.md) | `* *`
-    * The first part of YDKJS that has felt like it went from 0 to 100 without the proper ramp up. Certainly all of the information is there, but the chapter is the longest so far in the series and should have been better broken down. One would have to read this several times to absorb all the information successfully. That said, I'm sure it works well as a reference when coding.
-  
+    * The first part of YDKJS that has felt like it went from 0 to 100 without the proper ramp up. Certainly all of the information is there, but the chapter is the longest so far in the series and could have been broken down more effectively. One would have to read this several times to absorb all the information successfully. That said, I'm sure it works well as a reference when coding.
