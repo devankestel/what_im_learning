@@ -31,3 +31,14 @@
     * Explanation of how `this` differs from lexical scope and cannot be treated as such. Reminder: lexical scope = author time and `this` = runtime.
   * [x] [YDKJS: *this* & Object Prototypes CH2: `this` All Makes Sense Now!](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20%26%20object%20prototypes/ch2.md) | `* *`
     * The first part of YDKJS that has felt like it went from 0 to 100 without the proper ramp up. Certainly all of the information is there, but the chapter is the longest so far in the series and could have been broken down more effectively. One would have to read this several times to absorb all the information successfully. That said, I'm sure it works well as a reference when coding.
+
+## Tuesday
+
+  * [x] [Functional Programming in Haskell by University of Glasgow: Week 3](https://www.futurelearn.com/courses/functional-programming-haskell/) | `* * * * *`
+    * This course continues to expand my understanding of functional concepts. Week 3 went deeper into recursion as well as introduced custom data types and binary trees.
+  * [x] [Trees in Haskell](https://dkalemis.wordpress.com/2014/01/23/trees-in-haskell/) | `* * * * *`
+    * Commenters from the Glasgow Haskell course recommended this intro to binary trees as supplemental reading. I'm not sure if there was any added clarity when compared with the official material, but the repetition helped solidify trees in my mind.
+
+## Wednesday
+  * [x] [Functional Programming in Haskell by University of Glasgow: Week 4](https://www.futurelearn.com/courses/functional-programming-haskell/) | `* * * * *`
+    * This week covered a wide range of topics, as the general subject was "complex programs." Of particular interest, parsers in Haskell would probably be good for converting text to PDF, MSWord and other formats, as the code for doing similar conversions to XML and JSON proved both elegant and powerful. It also reinforced the general topics of parsing and lexing, which were introduced to me in YDKJS, even though I am now learning them in a different language. QuickCheck is an efficient and simple way of getting testing done for programs that are experimental. Ordinarily, I forego writing tests entirely for experimental code, and it's nice to know there is an alternative that lies between zero tests and implementing a full suite of unit tests. Finally, I enjoyed the interview with Graham Hutton. His description of his students who are taught from year one to think in a functional paradigm, rather than OO, left me a tiny bit jealous. I am putting his book, [Programming in Haskell](http://www.cs.nott.ac.uk/~pszgmh/pih.html) on my short list for Haskell learning materials to peruse in the near future. 
