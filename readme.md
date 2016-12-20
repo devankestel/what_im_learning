@@ -15,5 +15,8 @@ I am a big fan of in-browser learning platforms. Here are some links to my publi
 ## Entry Links
 Running List of all entries in this journal to date.
 
+* [Week5 *12/16/2016-12/22/2016*](week5.md)
+* [Week4 *12/09/2016-12/15/2016*](week4.md)
+* [Week3 *12/02/2016-12/08/2016*](week3.md)
 * [Week2 *11/25/2016-12/01/2016*](week2.md)
 * [Week1 *11/18/2016-11/24/2016*](week1.md)
